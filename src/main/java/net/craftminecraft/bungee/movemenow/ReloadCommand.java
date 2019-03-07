@@ -9,14 +9,14 @@ public class ReloadCommand extends Command {
     MoveMeNow plugin;
 
     public ReloadCommand(MoveMeNow plugin) {
-        super("mmn", "movemenow.admin");
+        super("moveme", "moveme.admin");
         this.plugin = plugin;
     }
 
     @Override
     public void execute(CommandSender sender, String[] args) {
         if (args.length != 1) {
-            sender.sendMessage(new TextComponent("Please use /mmn reload."));
+            sender.sendMessage(new TextComponent(ChatColor.YELLOW + "⚠ " + "Syntax error. Use: /moveme reload"));
         }
         switch (args[0]) {
             case "reload":
