@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: net.md-5:bungeecord-api:1.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/md-5/bungeecord-api/1.7-SNAPSHOT/bungeecord-api-1.7-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://ci.md-5.net/job/BungeeCord/991/net.md-5$bungeecord-api/artifact/net.md-5/bungeecord-api/1.7-20140901.064913-289/bungeecord-api-1.7-20140901.064913-289.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/md-5/bungeecord-api/1.7-SNAPSHOT/bungeecord-api-1.7-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="https://ci.md-5.net/job/BungeeCord/991/net.md-5$bungeecord-api/artifact/net.md-5/bungeecord-api/1.7-20140901.064913-289/bungeecord-api-1.7-20140901.064913-289.jar/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/md-5/bungeecord-api/1.7-SNAPSHOT/bungeecord-api-1.7-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
